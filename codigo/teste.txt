@@ -1,0 +1,34 @@
+rua incluir 1 1 "Rua Steve Jobs"
+rua incluir 2 1 "Rua Tim Berners-Lee"
+rua incluir -2 2 "Rua Alan Turing"
+rua incluir 2 1 "Rua Larry Page"
+rua incluir 8 1 "Rua Bill Gates"
+rua incluir 2 -6 "Rua Mark Zuckerberg"
+rua incluir 2 2 "Rua Sergey Brin"
+rua incluir 2 7 "Rua Vint Cerf"
+rua eliminar 2 2
+rua eliminar 2 4
+rua eliminar 8 3
+casa incluir 1 1 3 4 "João Alfredo"
+casa incluir 1 1 3 4 "Gustavo Monjardim"
+casa incluir 2 1 10 15 "Wallace kruger"
+casa incluir 2 1 7 4 "Igor Ventorim"
+casa incluir 1 1 7 -4 "Leonardo Nascimento"
+casa incluir 1 1 -7 4 "Vinicius Berger"
+casa incluir 2 1 8 9 "Maria dos Santos"
+casa eliminar 2 1 8
+casa eliminar 1 2 3
+casa eliminar 2 1 15
+casa consumir 1 1 3 50.0
+casa consumir 2 1 10 200.0
+casa consumir 2 1 7 -3.0
+casa medir 1 1 3
+casa medir 2 1 10
+casa medir 1 -2 3
+rua medir 1 1
+rua medir 2 1
+rua medir -1 2
+bairro medir 1
+bairro medir 2
+bairro medir 17
+cidade medir
